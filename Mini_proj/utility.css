@@ -1,0 +1,15 @@
+.container
+{
+max-width: 1000px;
+margin: auto;
+overflow: auto;
+padding: 0 20px;
+}
+.btn{
+  cursor: pointer;
+  display: inline ;
+  padding: 10px 20px;
+  border: 1px solid black;
+  margin:15px 10px;
+  border: none;
+}
